@@ -38,10 +38,13 @@ function renderContentList(category, page) {
         listEl.innerHTML = pageItems.map(item => {
             // 将 desc 按段落分割渲染
             const paragraphs = item.desc.split('\n\n').map(p => `<p>${p.replace(/\n/g, '<br>')}</p>`).join('');
+            // 图片 HTML（如果有图片才渲染）
+            const imageHtml = item.image ? `<div class="content-image"><img src="${item.image}" alt="${item.title}"></div>` : '';
             return `
             <div class="content-item ${item.pinned ? 'pinned' : ''}" onclick="toggleExpand(this)">
                 <span class="content-category ${item.category}">${item.categoryName}</span>
                 <div class="content-body">
+                    ${imageHtml}
                     <div class="content-title">${item.title}</div>
                     <div class="content-desc">${paragraphs}</div>
                     <div class="content-meta">
