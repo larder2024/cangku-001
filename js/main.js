@@ -40,6 +40,7 @@ function renderContentList(category, page) {
                 <span class="content-category ${item.category}">${item.categoryName}</span>
                 <div class="content-body">
                     <div class="content-title">${item.title}</div>
+                    ${item.image ? '<img src="' + item.image + '" class="content-image" alt="' + item.title + '">' : ''}
                     <div class="content-desc">${item.desc}</div>
                     <div class="content-meta">
                         <span>${item.date}</span>
