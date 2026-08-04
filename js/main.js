@@ -35,19 +35,22 @@ function renderContentList(category, page) {
     if (pageItems.length === 0) {
         listEl.innerHTML = '<div class="empty-state">暂无内容</div>';
     } else {
-        listEl.innerHTML = pageItems.map(item => `
+        listEl.innerHTML = pageItems.map(item => {
+            // 将 desc 按段落分割渲染
+            const paragraphs = item.desc.split('\n\n').map(p => `<p>${p.replace(/\n/g, '<br>')}</p>`).join('');
+            return `
             <div class="content-item ${item.pinned ? 'pinned' : ''}" onclick="toggleExpand(this)">
                 <span class="content-category ${item.category}">${item.categoryName}</span>
                 <div class="content-body">
                     <div class="content-title">${item.title}</div>
-                    ${item.image ? '<img src="' + item.image + '" class="content-image" alt="' + item.title + '">' : ''}
-                    <div class="content-desc">${item.desc}</div>
+                    <div class="content-desc">${paragraphs}</div>
                     <div class="content-meta">
                         <span>${item.date}</span>
                     </div>
                 </div>
             </div>
-        `).join('');
+            `;
+        }).join('');
     }
 
     // 渲染分页
