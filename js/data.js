@@ -2,6 +2,16 @@
    矽壤组织 - 内容数据
    ======================================== */
 
-const contentData = [];
+const contentData = [
+    {
+        id: 1,
+        title: "喀纳斯湖",
+        desc: "中国的版图像一只雄鸡，而我今天站在了这只雄鸡尾羽最北端——喀纳斯湖。湖面辽阔，水色碧蓝，远处雪峰倒映其中。",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-04",
+        pinned: true
+    }
+];
 
 const ITEMS_PER_PAGE = 20;
