@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>矽壤组织 - 展示</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar">
+        <div class="nav-left">
+            <a href="index.html" class="nav-item active">展示</a>
+            <a href="jianwen.html" class="nav-item">见闻</a>
+            <a href="wuzhi.html" class="nav-item">物质</a>
+            <a href="chuanbo.html" class="nav-item">传播</a>
+            <a href="sikao.html" class="nav-item">思考</a>
+        </div>
+        <div class="nav-right">
+            <a href="organization.html" class="nav-item">组织架构</a>
+        </div>
+    </nav>
+
+    <!-- 全屏飞船大图 -->
+    <header class="hero-banner-full">
+        <img src="images/spaceship.jpg" alt="矽壤宇宙飞船">
+    </header>
+
+    <!-- 内容展示区 -->
+    <main class="content-area">
+        <div class="container">
+            <div class="content-list" id="contentList"></div>
+            <div class="pagination" id="pagination"></div>
+        </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer"></footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+        // 展示页：显示所有内容
+        renderContentList('all', 1);
+    </script>
+</body>
+</html>
