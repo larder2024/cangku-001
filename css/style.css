@@ -324,6 +324,19 @@ a {
     min-height: calc(17px * 1.6 * 5);
 }
 
+.content-desc p {
+    margin-bottom: 16px;
+    text-indent: 2em;
+}
+
+.content-desc p:last-child {
+    margin-bottom: 0;
+}
+
+.content-item.expanded .content-desc p {
+    text-indent: 2em;
+}
+
 .content-meta {
     display: flex;
     gap: 16px;
