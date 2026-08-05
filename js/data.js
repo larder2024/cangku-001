@@ -12,16 +12,6 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-04",
         pinned: false
-    },
-    {
-        id: 2,
-        title: "窗外",
-        desc: "看见窗外那栋大楼已经在做最后的涂装整理了，就想起了当年我在施工的岗位上的工作。\n\n那时候年轻，觉得未来可期，哪怕是艰苦的户外工作，一样干劲满满。\n\n我现在人已接近40，很多想法很多念头都发生了变化，只是感叹时光荏苒。\n\n也看着当外面的施工的工人在热天辛苦的工作，而我在办公室里吹着冷气。",
-        image: "images/posts/construction-site.jpg",
-        category: "jianwen",
-        categoryName: "见闻",
-        date: "2026-08-05",
-        pinned: false
     }
 ];
 
