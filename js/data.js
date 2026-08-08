@@ -92,7 +92,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-08",
         pinned: false
+    },
+    {
+        id: 7,
+        title: "西行.空中摄影二",
+        desc: `飞机过了龙羊峡，地势忽然就松开了。\n\n峡谷的狰狞收了尾，大地从紧握的拳头慢慢摊开成手掌。云层底下，一片蓝得不正常的水面毫无预兆地铺展开——青海湖。\n\n中国最大的内陆湖，也是最大的咸水湖。从万米高空看，它不像湖，像一块被打翻在高原上的蓝颜料，边缘晕开，中央浓得化不开。\n\n川航的红色尾翼又一次探进画面。人和湖的比例在这一刻荒谬得可爱：那截机翼，是人类最精密的金属造物之一，此刻悬在青海湖上方，渺小得像一根睫毛。\n\n<img src="images/posts/2026-08-08-qinghai-lake-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n湖的北岸，一列山脉横亘在那里，像一道不愿被越过的高墙。\n\n那是祁连山脉。它从青海湖往北一直铺到河西走廊，是青藏高原与河西走廊之间真正的分界线。没有它，青海湖只是一汪水；有了它，这片水才有了被群山环抱的孤傲。\n\n继续往西，高度上去了。\n\n机翼下方不再是湖，是连绵的雪山，白得晃眼，和翻涌的云海搅在一起。山在云上，云在山上，分不清哪是地哪是天。视野一下子开阔到让人忘了自己在飞——倒像是悬浮在某幅水墨长卷的留白处。\n\n<img src="images/posts/2026-08-08-qilian-clouds.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n然后又看见青海湖。\n\n这一次是另一个角度。深蓝色的湖面安静得近乎固执，祁连山脉在它背后一字排开，更远处，雪山的轮廓浮在天际线上，淡淡的，像没睡醒。\n\n同一个湖，两种脾气。第一眼是铺张的蓝，第二眼是沉着的蓝。前一帧还在雪山云海里失重，后一帧就落回这片深蓝的安稳里。\n\n<img src="images/posts/2026-08-08-qinghai-lake-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n摄影一里我说，龙羊峡是大地这本书最锋利的一页。\n\n现在补一句：青海湖是这本书的眼睛，祁连山脉是它皱起的眉。锋利让人记住，温柔让人停留。这一程向西，两页都翻到了。`,
+        image: "images/posts/2026-08-08-qinghai-lake-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-08",
+        pinned: false
     }
+
 ];
 
 const ITEMS_PER_PAGE = 20;
