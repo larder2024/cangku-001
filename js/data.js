@@ -102,7 +102,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-08",
         pinned: false
+    },
+    {
+        id: 8,
+        title: "西行.空中摄影三",
+        desc: `还是那班川航3U，从西宁往西。越过青海湖之后，窗外的风景悄悄换了面孔——不再是水的蓝，而是大地的灰与白。\n\n第一张，是柴达木的门槛。干燥的戈壁摊在机翼下，干涸的河曲像被风抹平的掌纹，一道弧形山脊把灰色岩层托起；山前一片蓝灰色的水面，安静得不像湖，更像大地在喘息间留下的一口冷气。这是进入柴达木的第一印象：苍茫，没有边界。\n\n<img src="images/posts/2026-08-08-chaidamu-saltlake-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n然后，盐湖亮了。戈壁的盐碱滩还没褪尽，中段那片蓝就忽然亮起来，亮得像谁忘了收走的灯。远处的祁连山脉，雪线整齐地排在天边，像给这片荒凉盖了一道印章。原来苍茫里也藏着惊艳——只是它不喧哗，要你低头去看。\n\n<img src="images/posts/2026-08-08-chaidamu-snow-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n再往里飞，世界忽然安静。机翼下是一整片雪原，几乎看不见裸露的地表；远处连绵的雪山和雪原浑然一体，分不出地平线。唯有中段的弯月形盐湖，蓝绿得像一块落在白纸上的釉。高原的蓝天压得很低，纯净得不真实。\n\n三张照片，是同一段航程的三个瞬间。柴达木不说话，它只是把戈壁、盐湖、雪原一层层铺开，让你自己在天上把它读完。如果说青海湖是大地的一只眼睛，那柴达木，就是大地摊开的一页素笺——写着盐，也写着雪。`,
+        image: "images/posts/2026-08-08-chaidamu-gobi-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-08",
+        pinned: false
     }
+
 
 ];
 
