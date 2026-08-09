@@ -181,7 +181,7 @@ const contentData = [
         title: "西行·喀什古城",
         desc: `走进老城，得先穿过一条窄巷。两侧夯土墙不高，木门斑驳，门楣上挂着几根葫芦——不是装饰，是老辈人留下的习惯，谐音"福禄"，图的就是个念想。抬头看，巷子尽头是弧形的门洞，阳光从洞里漏进来，地面上一道一道的光影，好像老城在用影子说话。
 
-<img src="images/posts/2026-08-09-kashgar-oldtown-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+<img src="images/posts/2026-08-09-kashgar-pots-5.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
 
 穿过门洞，巷子深处又是另一番景象。墙上挂满了手工织锦，颜色的饱和度高得有些任性，红色为主，撞上金色和深蓝，维吾尔族的审美从来不需要谁批准。一排陶罐从墙根码到墙腰，有的盛水，有的装盐，有的什么都不装，就那么空着——空着的，也是一种日子。
 
