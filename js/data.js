@@ -163,7 +163,35 @@ const contentData = [
       categoryName: "见闻",
       date: "2026-08-09",
       pinned: false
+    },
+    {
+        id: 13,
+        title: "西行·喀什古城",
+        desc: `走进老城，得先穿过一条窄巷。两侧夯土墙不高，木门斑驳，门楣上挂着几根葫芦——不是装饰，是老辈人留下的习惯，谐音"福禄"，图的就是个念想。抬头看，巷子尽头是弧形的门洞，阳光从洞里漏进来，地面上一道一道的光影，好像老城在用影子说话。
+
+<img src="images/posts/2026-08-09-kashgar-oldtown-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+穿过门洞，巷子深处又是另一番景象。墙上挂满了手工织锦，颜色的饱和度高得有些任性，红色为主，撞上金色和深蓝，维吾尔族的审美从来不需要谁批准。一排陶罐从墙根码到墙腰，有的盛水，有的装盐，有的什么都不装，就那么空着——空着的，也是一种日子。
+
+<img src="images/posts/2026-08-09-kashgar-pots-5.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+从巷子出来，是老城的商业街。不宽，双向两车道，走到哪儿抬头都是"阿以旺"式样的廊棚，连廊连着店面，店面连着巴扎。阳光从廊棚的缝隙里落下来，照在创花盐碱馕上，照在老人走过的砖缝里。传统和现代在这儿不是对立，是叠层，像地质结构一样，一层压着一层，各有各的年龄。
+
+<img src="images/posts/2026-08-09-kashgar-street-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+爷爷的馕铺就在街角。一个馕坑，一案板，几只打好的白面馕。爷爷站在馕坑边，几十年的光阴全写在手上。墙上挂着民族花纹的布，角落里还有几只葫芦——这大概是喀什古城最统一的一件陈设：每一家门口，都挂着一只葫芦。
+
+<img src="images/posts/2026-08-09-kashgar-nang-4.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+从老城出来，找一张导览图看一下，才发现老城不是一条街，而是一座城。迷宫一样的街巷肌理，密度极高，功能极细，居住、贸易、宗教、手工，全部长在一起，没有分区，只有生长。这张图看起来像一片叶子，脉络清晰，但实际上每一条细纹都是路，每一条路都有名字——那些名字翻译成汉文，比叶子还要长。
+
+<img src="images/posts/2026-08-09-kashgar-map-3.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">`,        image: "images/posts/2026-08-09-kashgar-oldtown-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-09",
+        pinned: false
     }
+
 ];
 
 const ITEMS_PER_PAGE = 20;
