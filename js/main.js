@@ -16,11 +16,13 @@ function renderContentList(category, page) {
         filtered = contentData.filter(item => item.category === category);
     }
 
-    // 排序：置顶在前，然后按日期倒序
+    // 排序：置顶在前，然后按日期倒序，同一天内按id倒序（新→旧）
     filtered.sort((a, b) => {
         if (a.pinned && !b.pinned) return -1;
         if (!a.pinned && b.pinned) return 1;
-        return new Date(b.date) - new Date(a.date);
+        const dateDiff = new Date(b.date) - new Date(a.date);
+        if (dateDiff !== 0) return dateDiff;
+        return b.id - a.id;  // 同一天内，id大的（新发布的）在前
     });
 
     // 分页
