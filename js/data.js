@@ -363,6 +363,45 @@ const contentData = [
         date: "2026-08-10",
         pinned: false
     }
+,
+    {
+        id: 22,
+        title: "西行·中国西极",
+        desc: `从广州出发，经成都、西宁，飞过甘南、青海湖、柴达木、塔克拉玛干，落地阿克苏，取车，一路向西——喀什、乌恰、帕米尔高原边缘……到今天，终于站在了这里。
+
+中国西极。
+
+车停在半山腰，抬头就看见那幅巨大的浮雕——中国地图，山河轮廓清晰，红字嵌在里面："一生只做一件事 我为祖国守边疆"。字是朴素的，话是实在的，没有口号感，只有一种被时间磨出来的坚定。背后是天山余脉，山顶有积雪，在蓝天下白得晃眼。车就停在这句话下面，新Q牌照，沾了一路的风沙和泥点，像一枚勋章。
+
+再往上走，是一座砖砌的拱门。拱门不高，但颜色鲜艳——红、黄、蓝的马赛克拼贴，带着中亚的风格。门下有骆驼雕塑，驮着货物，低着头，像是从丝绸之路的某个年代直接走进来的。蓝天白云，阳光猛烈，拱门影子很短。这里已经是祖国的最西端，再往前，就是帕米尔高原，就是国境线，就是另一种语言和另一种生活。
+
+<img src="images/posts/2026-08-10-xiji-camelgate.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+然后就是那块碑。
+
+不高，但足够醒目。红色的基座，白色的碑身，上面刻着"中国西极"四个字。仰头看它的时候，风吹过来，带着高原的凉意。碑立在一处高地上，四野开阔，没有任何遮挡。它是这块土地的标点符号——句号，也是省略号。句号是因为，从地理意义上，这里是终点；省略号是因为，从人的意义上，这里只是某一段的结束。
+
+<img src="images/posts/2026-08-10-xiji-monument.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+碑旁立着一块指向牌。四个箭头，指向中国大陆的东西南北四极——东极抚远、西极乌恰、南极三沙、北极漠河。每一个名字背后，都是几千公里的距离，都是不同的气候、地貌、语言和生活方式。而这四个箭头，此刻汇聚在同一块牌子上，汇聚在同一片高原的阳光里。
+
+中国真大。大到你可以用半个月的时间，只走了一个方向。
+
+<img src="images/posts/2026-08-10-xiji-signpost.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+从碑的位置往下望，山谷在脚下铺展开。一条河蜿蜒穿过绿洲，两岸有村庄、有田地、有道路，有活着的气息。远处的山层层叠叠，颜色从灰褐过渡到深蓝，最远处和云层连在一起。盘山公路像一条细细的带子，从山脚绕上来，绕上来——那就是来时的路。
+
+<img src="images/posts/2026-08-10-xiji-panorama.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+站在这里，忽然明白了一件事：所谓"西极"，不是终点，而是坐标。它让你知道自己在哪，然后让你决定，接下来往哪走。
+
+下一站，塔什库尔干。路，还很长。`,
+        image: "images/posts/2026-08-10-xiji-relief.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-10",
+        pinned: false
+    }
 
 
 
