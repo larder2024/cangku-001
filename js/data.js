@@ -412,7 +412,7 @@ const contentData = [
 
 旁边还有另一种，茎干是紫红色的，叶片覆满白色绒毛，像裹了一层霜。这大概是景天科青锁龙属或伽蓝菜属的某种野生多肉，白色绒毛是应对强紫外线和干旱的适应——既能反射阳光，又能减少水分蒸发。没人浇水，没人施肥，活得比温室里的同类结实得多。
 
-<img src="images/posts/2026-08-10-return-succulent1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
 
 不远处传来水声。循着声音走，发现一条小溪。
 
