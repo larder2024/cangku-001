@@ -291,6 +291,45 @@ const contentData = [
         date: "2026-08-10",
         pinned: false
     }
+,
+    {
+        id: 20,
+        title: "西行·乌恰以西",
+        desc: `从乌恰服务区出来，雨渐渐停了，但天还是阴的。
+
+<b>第一帧：峡谷</b>
+
+公路钻进一条峡谷。两侧的山崖是赤褐色的，像被刀切过一样陡。路面还是湿的，反光里能看见轮胎碾过的水痕。雨后的空气格外干净，能见度出奇地好，远处的弯道一览无余。峡谷把天切成一条缝，车在里面走，像在一本翻开的地质书里穿行——每一层岩层都是一页，记录着亿万年前的沉积与抬升。
+
+<img src="images/posts/2026-08-10-wuqia-canyon.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+<b>第二帧：苍茫</b>
+
+出了峡谷，地势忽然就敞开了。山不再是两边的墙，而是铺到天边的毯子。一层叠一层，由近及远，颜色从赭红褪成灰蓝，最后和云层融在一起。阴天的光没有方向，把所有东西都压成扁平的色块。公路上的护栏是这段旅程唯一的直线，除此之外，整个世界都是起伏的。
+
+<img src="images/posts/2026-08-10-wuqia-mountains.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+<b>第三帧：风车</b>
+
+转过一道弯，雪山忽然就从云层里探出头来。不是一座，是一排，白得刺眼，和脚下的赤褐色山体形成不讲道理的对比。更意外的是山脚下那片风车阵——白色的扇叶在灰天里缓慢转动，像一群沉默的巨人，守着这条通往西极的路。工业和荒野在这里撞在一起，谁也不让谁，却意外地和谐。
+
+<img src="images/posts/2026-08-10-wuqia-windmills.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+<b>第四帧：草甸</b>
+
+最后把车停在一片开阔的草甸上。草甸不高，黄绿相间，被风吹得倒向同一个方向。远处的山还是那座山，但在开阔地的衬托下，它显得不那么压迫了，反而有种安静的庄严。天空低垂，乌云还在聚集，但没有下雨的意思。四野无人，只有风和草的摩擦声。
+
+<img src="images/posts/2026-08-10-wuqia-grassland.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+站了一会儿，没有拍照，只是看。
+
+这四帧画面之间，相隔不过几十公里。从峡谷到苍茫，从风车到草甸，地貌在变，光线在变，唯一不变的是向西的方向。西极碑还在前面，但此刻，路本身就是目的地。`,
+        image: "images/posts/2026-08-10-wuqia-canyon.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-10",
+        pinned: false
+    }
 
 
 
