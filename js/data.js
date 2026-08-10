@@ -328,6 +328,41 @@ const contentData = [
         date: "2026-08-10",
         pinned: false
     }
+,
+    {
+        id: 21,
+        title: "西行·西极之路·最后一程",
+        desc: `通往西极的路，是一条越来越窄的路。
+
+车穿过一条隧道，电子屏上的红字在幽暗中亮着——没有别的车，只有自己的前灯在岩壁上扫来扫去。出了隧道，两侧的崖壁陡然收紧，像两扇巨大的门正在缓缓合上。路是新的，沥青黑得发亮，但山是老山，老到不在乎任何人类的工程。
+
+路边停下来休息。四野无人，只有风。
+
+蹲下去，看见几株白色的小花——铁线莲，毛茸茸的，像一团团 miniature 的蒲公英。它们长在砾石缝里，根扎得极深，花瓣白得几乎透明。这种花在内地没见过，或者说，内地没有这种能让它活下来的缝。荒凉的石头、干燥的风、烈日的暴晒——这些对它是日常。它不开给谁看，它只是开。
+
+<img src="images/posts/2026-08-10-xiji-flower.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+抬头望，山谷在面前铺展开。远景是深蓝的，中景是赭红的，近处是褐黄的。三种颜色之间没有过渡，像三块被粗暴拼接的布料。谷底有一条隐约的绿带——那是河，或者只是湿润的滩地。几座高压电塔从谷底排到山腰，电线在风里微微晃动。人在这里留下的痕迹，细得像一根针掉进了大海。
+
+<img src="images/posts/2026-08-10-xiji-valley.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+再往前走，一座山崖横在面前。
+
+不是那种可以仰望的山，是必须以正面相迎的山。它的岩壁从地面直接拔上去，几乎没有坡度，水平层理清晰得像被刀切过——一层砂岩、一层泥岩、一层页岩，亿万年前的湖泊与沙漠交替沉积，被地壳运动整个抬升，再被风雨剥去表层，只剩下这一面裸露的切面。灰褐色的岩石上，每一道横纹都是时间的手印。
+
+<img src="images/posts/2026-08-10-xiji-cliff.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+站在它面前，人忽然变得很轻。不是因为高原反应，是因为尺度——山太大了，层理太多了，时间太深了。你的一辈子，在它身上留不下哪怕一道细纹。
+
+车还要往前开。西极碑就在前面，可能还有几十公里。但此刻，在这面山崖和这几朵白花之间，目的地的意义忽然变淡了。
+
+路本身就是目的地。这一程，已经到了。`,
+        image: "images/posts/2026-08-10-xiji-tunnel.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-10",
+        pinned: false
+    }
 
 
 
