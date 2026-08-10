@@ -402,6 +402,47 @@ const contentData = [
         date: "2026-08-10",
         pinned: false
     }
+,
+    {
+        id: 23,
+        title: "西行·归途·两山之间",
+        desc: `从西极碑下来，导航显示回乌恰县城还有一百多公里。来时赶路，很多风景是车窗里一闪而过的。返程不急了，决定走走停停。
+
+车停在路边，下来透口气。低头一看，砾石缝里长着几株多肉——景天科的，叶片肥厚，排列成整齐的莲座状，绿中带灰，表面一层薄薄的白粉。这种植物叫瓦松，景天科瓦松属，是新疆高山石缝里的常客。高原紫外线强、昼夜温差大、降水稀少，这些对它是日常。它不需要花盆，不需要营养土，只需要一道石缝和偶尔飘过的一朵云。冬天地上部分枯死，春天从根部再发新芽，年复一年。
+
+旁边还有另一种，茎干是紫红色的，叶片覆满白色绒毛，像裹了一层霜。这大概是景天科青锁龙属或伽蓝菜属的某种野生多肉，白色绒毛是应对强紫外线和干旱的适应——既能反射阳光，又能减少水分蒸发。没人浇水，没人施肥，活得比温室里的同类结实得多。
+
+<img src="images/posts/2026-08-10-return-succulent1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+不远处传来水声。循着声音走，发现一条小溪。
+
+溪水是从山上下来的，清得能看见水底的卵石。两岸长着些低矮的灌木和杂草，绿得有些奢侈——在高原的灰褐底色里，这一点绿格外显眼。溪面不宽，水也不深，但流速很快，带着雪山的凉意。本来想找个石头坐下，脱了鞋泡一会儿，但刚靠近水边，蚊虫就轰地一下围上来。不是几只，是一群，密度大到几乎能听见嗡嗡的合奏。
+
+没坚持到三分钟。被蚊虫逼回车里，摇上车窗，继续赶路。
+
+<img src="images/posts/2026-08-10-return-stream.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+开了不多远，路边忽然出现一座建筑——来时完全没注意到的。菱形的外墙，米黄色，配了两个尖拱形的门洞，像某种几何抽象的雕塑。走近看，是一块景区标识牌：两山交汇处。
+
+<img src="images/posts/2026-08-10-return-succulent2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+原来这里是个有名字的景点。天山与昆仑山，亚洲两条巨大的山系，在帕米尔高原的乌恰县境内交汇。天山山脉呈驼色，东西走向，分隔了准噶尔和塔里木两大盆地；昆仑山脉呈黛色，西起帕米尔高原，平均海拔5500米以上。克孜勒苏河从两山之间穿过，是它们的天然分界线。这个交汇点的海拔约2459米，被称为世界级自然奇观——也是全中国唯一能看到两大山脉交汇的地方。
+
+<img src="images/posts/2026-08-10-return-convergence-building.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+站远了看，全景更震撼。两座山像两堵巨墙，从左右两侧缓缓合拢，中间夹着一片开阔的谷地。山体表面全是水平层理，像一本被翻开的地质教科书，每一层都记录着亿万年前的沉积环境。谷底有稀疏的植被，有一条路蜿蜒穿过，通向山的深处。云层压得很低，但中间露出一小块蓝天，光从洞里漏下来，正好照在两山交接的地方。
+
+<img src="images/posts/2026-08-10-return-convergence-landscape.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">
+
+来时的路是朝着西极的，眼睛盯着前方，只顾着赶路。返程的眼睛是放松的，才看得见这些路边的东西——一丛瓦松、一条小溪、一群蚊虫、一个错过的世界级地标。路是同一个路，方向变了，看到的东西就全变了。
+
+两山交汇处不是终点，也不是起点。它只是提醒你：来的时候，你可能错过了什么。`,
+        image: "images/posts/2026-08-10-return-succulent1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-10",
+        pinned: false
+    }
 
 
 
