@@ -482,7 +482,7 @@ const contentData = [
 新生和结束，从来都不是干净利落的切换。它们之间有一段模糊地带，那段地带里，什么都可能发生。彩虹是在雨和晴之间的模糊地带出现的。夕阳的绚烂是在白天和黑夜之间的模糊地带绽放的。
 
 所谓奇迹，不过是你在模糊地带里，多停留了一会儿。`,
-        image: "images/posts/2026-08-10-return-rainbow-full.jpg",
+        image: "",
         category: "jianwen",
         categoryName: "见闻",
         date: "2026-08-10",
@@ -563,7 +563,7 @@ const contentData = [
 所以，不要急着穿过模糊地带。停下来。看看会发生什么。
 
 奇迹可能就在下一朵云后面。`,
-        image: "images/posts/2026-08-10-return-rainbow-full.jpg",
+        image: "",
         category: "sikao",
         categoryName: "思考",
         date: "2026-08-10",
