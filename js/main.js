@@ -119,60 +119,33 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
-// ---- 图片懒加载 ----
+// ---- 图片懒加载（已修复：直接加载，无需懒加载） ----
 (function() {
-    // 将 img src 改为 data-src，实现懒加载
-    function initLazyLoad() {
+    // 简单加载：确保所有 content-image img 正确显示
+    function initImages() {
         const images = document.querySelectorAll('.content-image img');
-        
-        if ('IntersectionObserver' in window) {
-            const observer = new IntersectionObserver((entries) => {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        const img = entry.target;
-                        if (img.dataset.src) {
-                            img.src = img.dataset.src;
-                            img.removeAttribute('data-src');
-                        }
-                        observer.unobserve(img);
-                    }
-                });
-            }, {
-                rootMargin: '100px 0px'  // 提前 100px 开始加载
-            });
-            
-            images.forEach(img => {
-                if (img.src && !img.dataset.src) {
-                    img.dataset.src = img.src;
-                    img.src = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'; // 1x1 透明占位图
-                }
-                observer.observe(img);
-            });
-        } else {
-            // 浏览器不支持 IntersectionObserver，直接加载
-            images.forEach(img => {
-                if (img.dataset.src) {
-                    img.src = img.dataset.src;
-                    img.removeAttribute('data-src');
-                }
-            });
-        }
+        images.forEach(img => {
+            // 如果有 data-src，恢复为 src
+            if (img.dataset.src) {
+                img.src = img.dataset.src;
+                img.removeAttribute('data-src');
+            }
+        });
     }
     
-    // 页面加载完成后初始化懒加载
+    // 页面加载完成后初始化
     if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', initLazyLoad);
+        document.addEventListener('DOMContentLoaded', initImages);
     } else {
-        initLazyLoad();
+        initImages();
     }
     
-    // 渲染内容后也需要重新初始化（因为 renderContentList 会重新生成 HTML）
+    // 渲染内容后也需要初始化
     const originalRender = window.renderContentList;
     if (originalRender) {
         window.renderContentList = function(category, page) {
             originalRender(category, page);
-            // 延迟一点等 DOM 更新
-            setTimeout(initLazyLoad, 100);
+            setTimeout(initImages, 50);
         };
     }
-})();
+})();;
