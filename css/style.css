@@ -352,6 +352,15 @@ a {
     text-indent: 2em;
 }
 
+/* ---- 修复：卡片视图隐藏desc中的图片，展开后才显示 ---- */
+.content-desc img {
+    display: none;
+}
+
+.content-item.expanded .content-desc img {
+    display: block;
+}
+
 .content-meta {
     display: flex;
     gap: 16px;
