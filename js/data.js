@@ -621,7 +621,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-12",
         pinned: false
+    },
+    {
+        id: 31,
+        title: "西行·红其拉甫·国门与塔吉克雄鹰",
+        desc: `早饭后，车子从塔什库尔干出发，一路向南。\n\n\n\n——向国门进发——\n\n\n\n路标上写着博兰迪尕勒牧点，海拔在不知不觉中攀升。窗外是帕米尔高原的褶皱，褐色的山脊一道接一道，像大地的皱纹。空气越来越稀薄，阳光越来越刺眼，但路还在向前延伸。\n\n\n\n目标只有一个：红其拉甫国门。\n\n\n\n<img src="images/posts/2026-08-12-khunjerab-road.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——4300米：氧气不够用了——\n\n\n\n海拔计的指针在爬，4000、4200、4300、4400……\n\n\n\n头开始疼，不是普通的头疼，是那种从太阳穴往里面钻的疼。胸口发闷，每一次呼吸都觉得不够，像有人在你鼻子前面蒙了一层纱布。心跳加速，手表上的数字在跳，提醒你这具身体正在抗议。\n\n\n\n扛不住了。停车，吸氧。\n\n\n\n氧气面罩扣在脸上，深吸一口——纯净的氧气冲进肺里，那种满足感难以形容。在平原上你从不在意空气，但在海拔4400米的地方，氧气成了最珍贵的东西。吸了几口，头疼减轻了一些，但摘下面罩没多久，那种感觉又回来了。\n\n\n\n国门还在前面，只能继续。\n\n\n\n——红其拉甫：中国最高的国门——\n\n\n\n然后，它出现了。\n\n\n\n中华人民共和国——六个金色的大字，在蓝天和雪峰的映衬下格外醒目。国徽居中，五星红旗在门顶飘扬。这就是红其拉甫国门，海拔约4700米，中国最高的陆路口岸。\n\n\n\n国门后面就是巴基斯坦。站在这里，你脚底下的土地是中国，往前一步就是另一个国家。没有想象中的喧闹，没有车水马龙，只有风、雪、和这扇庄严的门。\n\n\n\n国门的颜色是深橄榄绿，和周围的褐色山体、白色雪峰形成鲜明对比。天空中云层很厚，但偶尔露出一小块蓝天，阳光打下来，国门上的金色大字就亮得刺眼。\n\n\n\n站在这里拍照，每走一步都比平原费力。呼吸急促，动作放慢，但心是热的。这是祖国的最西端，是你能开车到达的最远的地方。\n\n\n\n<img src="images/posts/2026-08-12-khunjerab-gate.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——拉齐尼巴依卡：帕米尔雄鹰——\n\n\n\n下山途中，在塔什库尔干县城附近，看到了一座雕像。\n\n\n\n拉齐尼巴依卡——塔吉克族护边员，帕米尔高原的雄鹰。他三代人守边疆，巡边的路走了无数遍。2001年入伍，从部队复员后成为红其拉甫边防部队的义务巡逻向导。2018年当选全国人大代表。2021年，为救一名落水的儿童，纵身跳入冰湖，献出了41岁的生命。被追授时代楷模。\n\n\n\n雕像立在高原上，他穿着民族服饰，目光坚定地望向前方。底座上刻着拉齐尼巴依卡的名字和他的生平。背后是高耸的雪山，两面五星红旗在风中猎猎作响。\n\n\n\n<img src="images/posts/2026-08-12-laqini-statue.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n你站在雕像前，会想到很多。会想到他巡边时走过的那些路，会想到冰湖里的那一跳，会想到帕米尔高原上那些默默无闻的守边人。他们和这座国门一样，站在这里，就是一道防线。\n\n\n\n<img src="images/posts/2026-08-12-laqini-detail.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——尾声——\n\n\n\n从塔什库尔干到红其拉甫，再从国门回到县城——这条路不长，但海拔的起伏是剧烈的。4400米的氧气，4700米的国门，还有那座永远留在帕米尔的雕像。\n\n\n\n有些风景需要喘几口气才能看到，有些人值得你停下车来纪念。`,
+        image: "images/posts/2026-08-12-khunjerab-road.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-12",
+        pinned: false
     }
+
 
 
 
