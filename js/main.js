@@ -75,10 +75,18 @@ function renderContentList(category, page) {
 function toggleExpand(element) {
     element.classList.toggle('expanded');
     const isExpanded = element.classList.contains('expanded');
-    const imgs = element.querySelectorAll('.desc-img');
-    imgs.forEach(img => {
+    
+    // 控制 desc 中的图片：展开显示，收起隐藏
+    const descImgs = element.querySelectorAll('.desc-img');
+    descImgs.forEach(img => {
         img.style.display = isExpanded ? 'block' : 'none';
     });
+    
+    // 展开后隐藏缩略图，避免与正文配图重复
+    const thumbImg = element.querySelector('.content-image');
+    if (thumbImg) {
+        thumbImg.style.display = isExpanded ? 'none' : 'block';
+    }
 }
 
 // ---- 渲染分页 ----
