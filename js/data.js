@@ -631,7 +631,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-12",
         pinned: false
+    },
+    {
+        id: 32,
+        title: "西行·盘龙古道·油耗与下坡",
+        desc: `早饭后从塔什库尔干出发，目标很明确：盘龙古道。\n\n\n\n——没有加油站——\n\n\n\n但有个问题——一路上找不到加油站。油箱里的油在减少，路边的指示牌里没有一个写着加油站。盘龙古道就在前面，退回去找油太绕，只能一脚油门杀过去。\n\n\n\n这就是帕米尔高原的法则：有时候你只能往前走，因为回头路更长。\n\n\n\n<img src="images/posts/2026-08-12-panlong-road.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——上山：油耗的恐惧——\n\n\n\n盘龙古道是单行道，只能一直往上。\n\n\n\n然后我发现了一件恐怖的事——仪表盘上的续航里程每减少一公里，实际的行进路线只往前走了不到一百米。相当于油耗是平时的十倍。我算了一下：预计还能跑两百多公里，但离最近的加油站还有三十公里。按这个消耗速度，油撑不到加油站。\n\n\n\n焦虑开始蔓延。每一次看仪表盘，那个数字都在往下掉。山路还在盘旋上升，弯道一个接一个，发动机在嘶吼，油耗在飙升。我开始后悔没有提前加满油，开始后悔没有计算好路程。但后悔没用，路还得继续开。\n\n\n\n<img src="images/posts/2026-08-12-panlong-curve.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——塔吉克小伙：还有十公里——\n\n\n\n半山腰上，遇到了一个公路养护员。塔吉克族小伙，穿着工作服，正在路边维护护栏。\n\n\n\n停车，摇下车窗，问他前面的情况。\n\n\n\n"还有多远到山顶？油不够了。"\n\n\n\n他看了一眼我的车，说："不用担心，再往前面十公里就到山顶了。过了山顶就没有上坡了，全是下坡。下坡不费油。"\n\n\n\n十公里。按现在的油耗，十公里要耗掉一百公里的油量。但他说得笃定，眼神里没有犹豫。在高原上，本地人的话往往是靠谱的——他们比导航更了解这座山。\n\n\n\n——山顶：望龙亭——\n\n\n\n战战兢兢继续往上开。每过一个弯就看一眼油表，数字在掉，心在悬。\n\n\n\n然后，山顶到了。路牌上写着望龙亭观景台，下面还有大盘龙观景台、盘龙顶观景台、停车场的指示。车开过最高点的瞬间，眼前的景象变了——不再是让人窒息的上坡，而是一条蜿蜒向下的公路，像一条丝带铺在山脊上。\n\n\n\n那种豁然开朗的感觉，不是因为风景突然变美了，而是因为你知道：最艰难的部分过去了。\n\n\n\n<img src="images/posts/2026-08-12-panlong-sign.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n<img src="images/posts/2026-08-12-panlong-mountain.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——下坡：六百多个弯——\n\n\n\n盘龙古道有六百多个弯道，下山的过程就是在这六百多个弯里穿行。\n\n\n\n下坡果然不费油。车子几乎是靠着惯性在走，偶尔点一下刹车。油耗焦虑消失了，取而代之的是另一种体验——弯道太密集了，方向盘左打右打，像在玩一场现实版的赛车游戏。蓝色护栏沿着山体蜿蜒，每个弯道都露出不一样的风景：有时是深渊，有时是山脊，有时是远处被云层半遮的雪山。\n\n\n\n白色SUV在弯道上平稳行驶，窗外是帕米尔高原的苍茫。这一刻，你忘记了油耗的恐惧，忘记了上山的焦虑，只剩下风、路、和眼前的风景。\n\n\n\n<img src="images/posts/2026-08-12-panlong-downhill.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——尾声——\n\n\n\n盘龙古道教了我一件事：有些恐惧是被放大的。当你在山腰上看着油表往下掉的时候，你觉得完了；但当你咬咬牙开到山顶，你会发现下坡的路一直都在那里，只是你看不到而已。`,
+        image: "images/posts/2026-08-12-panlong-road.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-12",
+        pinned: false
     }
+
 
 
 
