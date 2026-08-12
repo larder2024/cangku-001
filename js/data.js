@@ -641,7 +641,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-12",
         pinned: false
+    },
+    {
+        id: 33,
+        title: "西行·班迪尔蓝湖·排队与大山",
+        desc: `离开盘龙古道，第一件事就是找加油站。\n\n\n\n——加油：排队的人心发慌——\n\n\n\n高原上的油耗把所有人都吓怕了。上坡、上山，每一脚油门都在燃烧焦虑。塔克站的一个小村庄里，一个小型加油站前排起了二十几辆车。引擎轰鸣，尾气味道弥漫在空气中，每个人都盯着油枪，心发慌。\n\n\n\n就在我走神的那一刻，两辆摩托车突然窜到我前面。两个年轻人，想加塞，想插队。\n\n\n\n我可不是好脾气。指着他们就开始说。前两句话，没用。但当我说出第三句的时候，他们的表情变了——\n\n\n\n"你看看你，影响了后面多少台车。大家都在老老实实排队，就你俩素质那么低，不怕引起群愤吗？"\n\n\n\n有时候讲道理没用，但讲力量有用。两个人对我一个，他们也许觉得二打一能赢。但我把整个车队的人都搬出来了——你们两个，能对得过二十几个司机吗？\n\n\n\n在我的强烈要求下，两个小年轻推着摩托车，灰溜溜地跑到队伍最末尾，开始排队。\n\n\n\n——班迪尔蓝湖：高原的蓝宝石——\n\n\n\n加完油，继续往前开。目的地是一个叫班迪尔蓝湖的地方。\n\n\n\n它也叫下坂地水库，藏在帕米尔高原深处，是塔什库尔干河道上的一座水利枢纽。湖水因矿物质的作用呈现出蓝色——夏季是青蓝色，冬季是深蓝色。阴天时静谧，晴天时层次分明。\n\n\n\n湖面宽阔，远处是连绵的褐色山脉。山脚下可以看到中铁的工地——八局在修G217莎塔公路，把路从塔什库尔干延伸到莎车县。十七局在旁边挖隧道。塔莎古道沿线的工程，正在把帕米尔的深山和外界连接起来。\n\n\n\n湖水是冷的，颜色是深的。站在岸边，风从山谷里吹来，带着高原特有的干燥和凉意。\n\n\n\n<img src="images/posts/2026-08-13-bandir-lake.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——巨大的山体：山的瞳孔——\n\n\n\n离开蓝湖，继续往前。然后，它出现了。\n\n\n\n巨大的山体，像一堵墙一样横在眼前。不是一座山，是一片山脉，连绵不绝，从你脚下一直延伸到地平线。山脊在你的眼眉之上——只要你平视，基本上是看不到天空的。头顶上只有岩石、泥土、和偶尔飘过的云。\n\n\n\n而最震撼的是——中间那座山体，像极了一只眼睛。山体中央形成了一个巨大的凹陷，仿佛一只正在凝视你的瞳孔。那不是人工的，是大自然几百万年的风化、侵蚀、挤压，偶然间雕刻出的形状。\n\n\n\n你盯着它看，它会回看你。那种压迫感不是来自高度，而是来自那种被注视的感觉。一座山，长了眼睛，正默默看着每一个从它面前经过的人。\n\n\n\n<img src="images/posts/2026-08-13-mountain-pupil.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n公路沿着河谷延伸，两侧是巨大的山体。阳光从山体的缝隙中透出来，打在峡谷里，形成一道道光柱。车内看出去，挡风玻璃上映着雨滴，远处的太阳正在两座山峰之间下沉。\n\n\n\n<img src="images/posts/2026-08-13-pamir-sunlight.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n<img src="images/posts/2026-08-13-canyon-sunset.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n前方可以看到施工的人群和车辆，中铁的建设者们正在这片苍茫中工作。电线杆沿着山路排列，人类的活动在这巨大的背景下显得微不足道。\n\n\n\n<img src="images/posts/2026-08-13-canyon-road.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——尾声——\n\n\n\n从加油站的排队，到班迪尔蓝湖的宁静，再到那座长了眼睛的山体——这一天的情绪起伏很大。有愤怒，有平静，有被注视的敬畏。\n\n\n\n帕米尔高原不是那种会让你舒服的地方。它用高海拔考验你的身体，用荒凉考验你的耐心，用一座山的瞳孔提醒你的渺小。但当你穿过这一切，回头看时，你会发现：那些让你不舒服的，往往也是让你记住的。`,
+        image: "images/posts/2026-08-13-bandir-lake.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-13",
+        pinned: false
     }
+
 
 
 
