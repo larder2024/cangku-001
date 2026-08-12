@@ -39,12 +39,12 @@ function renderContentList(category, page) {
     } else {
         listEl.innerHTML = pageItems.map(item => {
             // 将 desc 按段落分割渲染
-            const paragraphs = item.desc
-                .split('\n\n')
-                .filter(p => !p.trim().startsWith('<img'))
-                .slice(0, 3)
-                .map(p => `<p>${p.replace(/\n/g, '<br>')}</p>`)
-                .join('');
+            const paragraphs = item.desc.split('\n\n').map(p => {
+                    if (p.trim().startsWith('<img')) {
+                        return `<p class="desc-img" style="display:none">${p.replace(/\n/g, '<br>')}</p>`;
+                    }
+                    return `<p>${p.replace(/\n/g, '<br>')}</p>`;
+                }).join('');
             // 图片 HTML（如果有图片才渲染）
             const imageHtml = item.image ? `<div class="content-image"><img src="${item.image}" alt="${item.title}"></div>` : '';
             return `
@@ -74,6 +74,11 @@ function renderContentList(category, page) {
 // ---- 展开/收起内容 ----
 function toggleExpand(element) {
     element.classList.toggle('expanded');
+    const isExpanded = element.classList.contains('expanded');
+    const imgs = element.querySelectorAll('.desc-img');
+    imgs.forEach(img => {
+        img.style.display = isExpanded ? 'block' : 'none';
+    });
 }
 
 // ---- 渲染分页 ----
