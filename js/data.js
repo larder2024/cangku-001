@@ -611,7 +611,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-12",
         pinned: false
+    },
+    {
+        id: 30,
+        title: "西行·慕士塔格·车顶与高反",
+        desc: `从木吉折返，再次回到白沙湖。这一次，天气变了。\n\n\n\n——雨中的白沙湖——\n\n\n\n雨下得不大，但细密而持久。湖面不再是昨天那种明艳的青绿松石色，而是变成了一片沉郁的灰蓝。云层压得很低，几乎要触到远处的白沙山。雨丝斜斜地落在车窗上，远处的雪山隐没在雾气里，若隐若现。\n\n\n\n雨天的白沙湖是另一种性格。没有阳光下的明媚，没有游客喧闹，只有风、雨、湖水和沉默的山。湖边的护栏被雨水洗得发亮，远处的公路在雨幕中变成模糊的线条。你站在那里，感觉到一种高原特有的孤寂——不是荒凉，是辽阔带来的安静。\n\n\n\n<img src="images/posts/2026-08-12-baisha-rain.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——慕士塔格峰：关门的冰川公园——\n\n\n\n继续向南，慕士塔格峰就在前方。\n\n\n\n它是帕米尔高原的标志，海拔7546米，被称为冰山之父。远远就能看到那座巨大的白色金字塔，山顶的冰川在阳光下闪烁。车开到冰川公园门口，想进去近距离看看——但大门紧闭，关园了。\n\n\n\n没有解释，没有通知，就是进不去。站在门口望了一眼，那座雪山还在那里，隔着铁门，隔着距离。帕米尔不会因为你的期待而改变行程，它只管自己矗立着。\n\n\n\n绕过公园，换了一条路，在另一侧找到了一个可以近距离观察慕士塔格峰的位置。冰川从山顶倾泻而下，冰舌一直延伸到半山，像一条凝固的河流。云层在山顶流动，偶尔露出一片蓝天，雪峰立刻被点亮，刺眼得让人眯眼。\n\n\n\n<img src="images/posts/2026-08-12-pamir-road-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n<img src="images/posts/2026-08-12-muztagh.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——车顶：人生第一次——\n\n\n\n车停稳，我爬上了车顶。人生第一次站在车顶拍照。\n\n\n\n风很大，吹得人站不稳，但视野完全打开了。双臂展开，背对镜头，面向那座雪山——慕士塔格峰就在眼前，山顶的冰川在云层缝隙中闪着光。天空是淡蓝色的，云朵从头顶铺向地平线，广阔得让人觉得不真实。\n\n\n\n站在车顶的高度，和站在地上的感觉完全不同。你不再是被风景包围，而是和风景平起平坐。远处的公路、草地、雪山，全部铺展在脚下。那一刻，呼吸是急促的，但心是静的。\n\n\n\n<img src="images/posts/2026-08-12-on-roof.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——3812米：高反来了——\n\n\n\n继续往前，要翻一座大山。\n\n\n\n天色已经暗下来，高原的夜晚来得比平原晚，但海拔计不会骗人。手腕上的表显示：3812米，心率95。空气明显变了——每吸一口都觉得不够，胸口发紧，太阳穴开始跳。\n\n\n\n车还在爬坡，弯道一个接一个。窗外的风景从褐色变成灰白，再变成深灰。脑袋越来越沉，像有人在里面慢慢拧紧一根发条。不能睡，得撑着，因为前面就是塔什库尔干，离目的地不远了。\n\n\n\n帕米尔用这种方式提醒你：你看的风景，是要付代价的。\n\n\n\n<img src="images/posts/2026-08-12-altitude.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border:2px solid #000;border-radius:8px;margin:14px 0;display:block;">\n\n\n\n——尾声——\n\n\n\n从白沙湖的雨天，到慕士塔格峰下的闭门羹，到车顶上的第一次，再到3812米的高反——这一天没有按计划走，但每一步都是真的。\n\n\n\n塔什库尔干就在前面了。车继续开，氧气继续稀薄，但路还在。`,
+        image: "images/posts/2026-08-12-baisha-rain.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-12",
+        pinned: false
     }
+
 
 
 ];
