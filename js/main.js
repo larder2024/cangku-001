@@ -39,7 +39,12 @@ function renderContentList(category, page) {
     } else {
         listEl.innerHTML = pageItems.map(item => {
             // 将 desc 按段落分割渲染
-            const paragraphs = item.desc.split('\n\n').map(p => `<p>${p.replace(/\n/g, '<br>')}</p>`).join('');
+            const paragraphs = item.desc
+                .split('\n\n')
+                .filter(p => !p.trim().startsWith('<img'))
+                .slice(0, 3)
+                .map(p => `<p>${p.replace(/\n/g, '<br>')}</p>`)
+                .join('');
             // 图片 HTML（如果有图片才渲染）
             const imageHtml = item.image ? `<div class="content-image"><img src="${item.image}" alt="${item.title}"></div>` : '';
             return `
