@@ -681,7 +681,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-13",
         pinned: false
+    },
+    {
+        id: 37,
+        title: "西行·再别白沙湖·下山的路",
+        desc: `再一次路过白沙湖。\n\n\n\n湖水还是那种让人移不开眼的蓝绿色，岸边的沙丘白得晃眼。上一次经过这里，是往高原去，方向是向上；这一次，是离开帕米尔，方向是向下。同样的风景，不同的心境——来的时候是期待，走的时候是不舍。\n\n\n\n但路还很长，不能停太久。\n\n\n\n<img src="images/posts/2026-08-13-baisha-lake-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n沿着喀喇昆仑公路往下走，地貌开始变化。高原的辽阔和舒缓渐渐退去，取而代之的是陡峭和紧张。公路贴着山体开凿，一侧是几乎垂直的岩壁，另一侧是深不见底的河谷。没有护栏的地方，车轮离悬崖边也就一两米，开得手心冒汗。\n\n\n\n<img src="images/posts/2026-08-13-baisha-lake-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n这条河不知道叫什么名字。河床很宽，但水不多，大片大片的砾石滩裸露着，像是一条灰色的带子铺在谷底。偶尔能看到几株绿色的灌木，是这片荒凉里难得的生机。河水是浑浊的灰蓝色，从雪山融化下来，一路裹挟着泥沙，流到看不见的地方去。\n\n\n\n<img src="images/posts/2026-08-13-baisha-lake-3.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n山体的颜色也在变。靠近山顶的部分是灰褐色，裸露的岩石被风化得斑驳；往下半截，岩层忽然变成了红褐色，一层一层的，像是有人用刀切开的蛋糕剖面。这是亿万年沉积的印记，人在这条路上走一天，相当于穿越了几百万年的地质史。\n\n\n\n<img src="images/posts/2026-08-13-baisha-lake-4.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n最险的一段，公路几乎是从山崖的肚子里穿出来的。头顶的岩壁压得很低，路面又窄，会车的时候要特别小心。但抬头看，天空蓝得纯净，几朵白云挂在山尖上，和脚下这条灰扑扑的路形成鲜明的对比。\n\n\n\n<img src="images/posts/2026-08-13-baisha-lake-5.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n帕米尔在身后越来越远。海拔在下降，空气在变稠，耳朵没有了那种轻微的压迫感。但心里却有一点空——那些雪山、冰川、高原湖泊，就这样留在后视镜里了。不知道下次再来是什么时候。\n\n\n\n下山的路和上山的路是同一条，但看到的风景完全不同。上山的时候，一切都在前方展开，是迎接；下山的时候，一切都在身后退去，是告别。\n\n\n\n路还在往前延伸。喀什就在前方了。`,
+        image: "images/posts/2026-08-13-baisha-lake-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-13",
+        pinned: false
     }
+
 
 
 
