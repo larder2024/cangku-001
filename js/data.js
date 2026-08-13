@@ -671,7 +671,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-13",
         pinned: false
+    },
+    {
+        id: 36,
+        title: "西行·卡拉库勒湖·补上的风景",
+        desc: `重走喀喇昆仑公路，从塔什库尔干折返。\n\n\n\n这条路我曾在夜里走过一次。那时候车灯只能照亮前面几十米，两侧是黑的，只知道远处有山，山上有雪，脚下有湖——但具体长什么样，全凭想象。\n\n\n\n今天是白天。天空蓝得不像话，白云一朵一朵地挂在上面，像是有人随手撒上去的。\n\n\n\n卡拉库勒湖终于露出了真面目。\n\n\n\n湖水是那种不透光的深蓝，近岸处又泛着一点浅绿。远处，慕士塔格峰的白顶完整地倒映在湖面上，山是真的，倒影也是真的，一时分不清哪个更清楚一些。\n\n\n\n<img src="images/posts/2026-08-13-karakul-lake-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n湖边有栈道，有草地，有风。高原的风总是很大，吹得站不稳，但也把云吹得走得很快，光影在湖面上不停地变。上次夜路经过这里，心里想着"下次白天一定要来看看"。这个"下次"隔了几天，终于兑现了。\n\n\n\n沿着木栈道往湖边走，水越来越近，山的轮廓也越来越清晰。有人用石块在湖边堆了一个半圆形的打卡装置，像一个小小的祭坛，面向雪山和湖水。站进去，人就在风景的中央了。\n\n\n\n<img src="images/posts/2026-08-13-karakul-lake-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n<img src="images/posts/2026-08-13-karakul-lake-3.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n湖边有个蒙古包餐厅。掀开门帘进去，里面比想象中暖和。穹顶上是蓝天白云的图案，四周挂着红色的装饰，阳光从顶上的天窗漏进来，在毡毯上投下一圈光斑。要了一份手抓饭，一盘烤羊肉串，还有一碗热奶茶。高原上的饭总是更香一些，也许是因为消耗大，也许是因为空气稀薄让味觉更敏感了。老板是个柯尔克孜族大哥，汉语不太流利，但笑起来很实在。\n\n\n\n<img src="images/posts/2026-08-13-karakul-lake-4.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n<img src="images/posts/2026-08-13-karakul-lake-5.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n吃完饭走出来，站在湖边发了会儿呆。\n\n\n\n慕士塔格峰还在那里，湖还在那里，路还在那里。它们不会动，动的是人。人在路上走，白天走过，夜里也走过，错过一些风景，又补上一些风景。卡拉库勒湖这次没有错过——它比我夜里想象的还要好看一些。`,
+        image: "images/posts/2026-08-13-karakul-lake-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-13",
+        pinned: false
     }
+
 
 
 
