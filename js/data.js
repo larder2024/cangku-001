@@ -701,7 +701,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-13",
         pinned: false
+    },
+    {
+        id: 39,
+        title: "西行·叶城·西域迷城与新藏零公里",
+        desc: `从高速下来，正式进入叶城。\n\n\n\n这座县城的名声主要来自两件事：核桃和新藏公路。它是新藏公路的起点，也是G219国道的北端终点——一条从广西东兴一直延伸到新疆喀纳斯的万里公路，在这里画下了一个节点。\n\n\n\n但进城之前，先拐去了一个叫"西域迷城"的地方。\n\n\n\n<h3>西域迷城</h3>\n\n\n\n说是"迷城"，其实就是一座仿古建筑群，上海援建的人工景点。晚上八点到的时候，景区里已经没什么人了，空空荡荡的，和"迷城"这两个字倒是意外地契合。\n\n\n\n<img src="images/posts/2026-08-13-xiyu-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n大门修得很有气势，土黄色的夯土结构，上方有"西域迷城"四个大字，旁边还立着一个G219的公路标志——三百四十七公里的标志，意味着从这里往南走三百四十七公里，才能到达下一个有规模的城镇。\n\n\n\n走进去，街道很宽，两旁都是仿造的西域风格建筑：圆顶、拱门、土黄色的墙壁。彩旗在风中飘着，但因为人太少，反而显得有点冷清。空荡荡的街道，只有自己的脚步声在回响，那种"迷城"的感觉不是来自建筑，而是来自安静。\n\n\n\n<img src="images/posts/2026-08-13-xiyu-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n最里面有一个剧场，走进去，里面挂着一幅巨大的油画——一位深色长发的女子，面容清冷，旁边是一只黑猫，眼神直勾勾地看着你。白椅子，红坐垫，暗红色的帷幕，灯光不算亮。整个空间有一种说不出来的诡异感，像是走进了一部悬疑电影的场景。\n\n\n\n<img src="images/posts/2026-08-13-xiyu-3.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n出了剧场，旁边有一座塔楼，土黄色的砖墙，尖顶，墙上还装了一个现代的天线——古代和现代的混搭，在这座城市里到处都是。塔下种着一排橙色的花，在暮色里显得格外鲜艳。\n\n\n\n<img src="images/posts/2026-08-13-xiyu-4.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n上海援建的景点，说不上多么精致，但晚上八点的空荡和安静，反而给这里增添了一种意想不到的氛围。\n\n\n\n<h3>新藏公路零公里</h3>\n\n\n\n离开迷城，驱车前往新藏公路的起点。\n\n\n\n天色已经完全暗下来了，街灯亮着，车在路上慢慢地走。远远地就能看到一座巨大的牌坊式门楼横在马路中央——蓝白相间的主色调，中间一个金色的圆形标志，两侧立柱上是黑色的书法大字："天路零公里，昆仑第一城"。\n\n\n\n这就是新藏公路的零公里起点。\n\n\n\nG219国道从这里开始，一路向南，翻越昆仑山，穿越阿里高原，最终到达西藏的定结县——全程两千多公里，平均海拔在四千米以上，被称为"世界上海拔最高的公路"。每年都有大量的自驾爱好者从这里出发，挑战那条被称为"天路"的险峻之路。\n\n\n\n牌坊下面车流穿梭，出租车排着队，电动车嗖嗖地过。这座门楼就像一个界碑，一边是普通的县城街道，一边是通往世界屋脊的起点。\n\n\n\n<img src="images/posts/2026-08-13-xiyu-5.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n站在牌坊下拍了张照片，算是到此一游。\n\n\n\n<h3>晚饭</h3>\n\n\n\n旁边的川菜馆还开着，推门进去，点了一份水煮鱼，一份回锅肉，一碗米饭。\n\n\n\n在吃了几天新疆菜之后，川菜的味道显得特别亲切。辣是真的辣，油是真的油，但那种熟悉的味道让人胃口大开。老板是四川人，说话带着浓重的口音，在这万里之外的西域县城里听到，有种奇妙的错位感。\n\n\n\n吃完饭，天已经完全黑了。\n\n\n\n明天的路还很长——继续向南，前往和田。但今晚，先在这里住下。`,
+        image: "images/posts/2026-08-13-xiyu-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-13",
+        pinned: false
     }
+
 
 
 
