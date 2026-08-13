@@ -691,7 +691,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-13",
         pinned: false
+    },
+    {
+        id: 38,
+        title: "西行·高速向南·从莎车到叶城",
+        desc: `上了高速，方向向南。\n\n\n\n离开帕米尔之后，身体轻松了不少——耳朵不再嗡嗡作响，呼吸也顺畅了。但心里还在回味着那些雪山和湖泊，像是一场刚刚散场的电影，画面还在脑海里转。\n\n\n\n高速上的风景和高原上完全不同。那里是辽阔的、起伏的、有层次的；这里是平坦的、笔直的、一望无际的。公路像一把尺子，硬生生地在荒漠上画出一条直线，通往地平线的那一端。天上的云白得刺眼，一团一团地堆着，蓝天蓝得不像真的，像是有人在上面刷了一层漆。\n\n\n\n<img src="images/posts/2026-08-13-highway-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n车子开得很快，路边的风景飞速后退。戈壁滩上几乎没有绿色，只有灰黄色的沙砾和偶尔出现的骆驼刺。远处能看到一些低矮的山丘，轮廓模糊，像是被风打磨了几千年后的残骸。\n\n\n\n途经莎车的时候，没有下高速。那个名字在路牌上一闪而过——莎车，古丝绸之路上的重镇，叶尔羌汗国的故都。历史在这里一层叠着一层，但高速上的人是来不及看的，只能记住一个路牌，然后继续往前。\n\n\n\n<img src="images/posts/2026-08-13-highway-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n路两旁开始出现白杨树。一排一排的，站得很整齐，叶子在风中哗哗地响。这是新疆公路的标志——只要有白杨，就说明附近有村庄、有水、有人烟。它们是荒漠里的坐标，告诉赶路的人：前面有绿洲。\n\n\n\n<img src="images/posts/2026-08-13-highway-3.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n再往前开，地貌又变了。灰黄色的戈壁慢慢让位于一些暗红色的土壤，远处的山影也越来越淡，最后融进天际线里，分不清是山还是云。\n\n\n\n<img src="images/posts/2026-08-13-highway-4.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n\n\n天渐渐暗下来的时候，叶城的路牌出现在前方。\n\n\n\n这里是新藏公路的起点，也是核桃之乡。比起一路经过的那些古老名字，叶城显得更现代一些，街道宽阔，路灯明亮。但对我来说，它今晚还只是一个驿站——从塔什库尔干出发，经过白沙湖、卡拉库勒湖、莎车，一路向南，最终在这里短暂歇脚。\n\n\n\n一天之内，从高原到平原，从雪山到荒漠，从白日到黄昏。新疆的地理尺度在这一天里被压缩又展开，像一本快速翻阅的图册。\n\n\n\n但路还没有走完。前面的灯还亮着，导航还在说话，油量还够。把车窗降下来，让风灌进来，清醒一下。然后继续——向南。`,
+        image: "images/posts/2026-08-13-highway-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-13",
+        pinned: false
     }
+
 
 
 
