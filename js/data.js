@@ -720,6 +720,37 @@ const contentData = [
 
 
 
+,
+    {
+        id: 40,
+        title: "西行·和田以南·戈壁公路",
+        desc: `<img src="images/posts/2026-08-14-hetian-road-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+一路向南，抵达和田。
+
+车窗外，戈壁与村庄交替出现，像一部被快进播放的纪录片。柏油马路笔直地切向天际，两旁是望不到头的荒漠。这里没有江南的婉约，只有南疆的粗粝与坦荡。
+
+<img src="images/posts/2026-08-14-hetian-road-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+蓝色的防风固沙网沿着路基一字排开，像忠诚的卫士，沉默地对抗着塔克拉玛干的风沙。据说没有它们，这条公路撑不过一个春天就会被流沙吞没。人类的渺小与顽强，在这荒原上被同时放大。
+
+<img src="images/posts/2026-08-14-hetian-road-3.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+远处的山影在浮尘中若隐若现，灰蒙蒙的天色让视野变得柔和，却也让孤独感更加清晰。偶尔有高压电塔从地平线升起，钢铁的骨架在空旷中显得格外突兀——它们是这片荒野上少数的人造物，也是现代文明伸向戈壁的几根手指。
+
+车开久了，眼前的风景开始重复：沙砾、红柳、骆驼刺，然后是更多的沙砾。你忽然理解了为什么古人把这里叫做"西域"——不是因为它在西方，而是因为它本身就像一个异世界。
+
+但就是在这样的荒原尽头，昆仑山的雪水融化成河，一路向北，把山里的玉石冲刷下来。玉龙喀什河、喀拉喀什河，两条河像两条命运的线，在阔什拉什汇合，然后消失在沙漠深处。
+
+和田到了。
+
+明天，去河边看看。`,
+        image: "images/posts/2026-08-14-hetian-road-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-14",
+        pinned: false
+    }
 
 
 
