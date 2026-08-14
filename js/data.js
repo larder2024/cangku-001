@@ -802,6 +802,97 @@ const contentData = [
         date: "2026-08-15",
         pinned: false
     }
+,
+    {
+        id: 42,
+        title: "西行·和田约特干·西域长歌",
+        desc: `<img src="images/posts/2026-08-15-yotkan-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+下午到了和田，直接奔约特干古城。
+
+大门上写着"于阗故城约特干"，两侧石狮子蹲着，红墙金瓦，颇有点盛唐遗风。这座古城是重建的，但不是那种粗制滥造的仿古街——它把自己当成了一台戏，而你，是走进戏里的观众。
+
+<img src="images/posts/2026-08-15-yotkan-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+穿过大门，视野豁然开朗。
+
+广场中央立着一棵巨大的花树，粉色的花伞撑开在半空，像一团凝固的晚霞。背景是土黄色的古城建筑，拱门、回廊、露台，一层一层往上叠。花树是假的，但好看是真的。它站在那儿，不为结果，只为把颜色种进这片黄土里。
+
+<img src="images/posts/2026-08-15-yotkan-3.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+往城墙方向走，忽然头顶一暗——有人在飞。
+
+不是鸟，是人。吊着威亚，红衣白袖，从古墙上空缓缓滑过。那一刻，你真的会恍惚：这是不是某部古装剧里的镜头？不，这是约特干的日常表演。城墙是假的，飞是真的。假的布景里，有人在真飞。
+
+<img src="images/posts/2026-08-15-yotkan-5.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+广场中央，一场大戏正在上演。
+
+唐僧师徒四人——不对，是演员扮的唐僧师徒——正走在西天取经的路上。白龙马、孙悟空、猪八戒、沙僧，一个个从人群里穿出来，表情夸张，步伐滑稽。然后他们进了女儿国。
+
+这是约特干最聪明的地方：它不跟你讲历史，它给你演戏。你知道这是假的，但你还是会笑，会拍照，会跟着人群往前挤。真假不重要，重要的是，那一刻你真的相信了自己在西域。
+
+<img src="images/posts/2026-08-15-yotkan-6.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+拐进一条巷子，遇见四位乐师。
+
+他们围坐在一起，弹着热瓦普，敲着手鼓，旁边还有一位吹笛子的。服饰是西域老式的，宽袍大袖，颜色深褐、暗红、藏蓝，和周围的土黄色城墙几乎融为一体。音乐不快，节奏缓慢，像是从地底冒出来的——不是表演，是呼吸。
+
+我站着听了很久。没有扩音器，没有音响，就是几把老乐器，几个人，和一条巷子。声音不大，但足够把整条街填满。
+
+<img src="images/posts/2026-08-15-yotkan-7.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+再往前走，遇见一个"乞丐"。
+
+破衣烂衫，胡子拉碴，手里一根竹棍，腰间挂着酒葫芦，正靠在墙根晒太阳。看见游客过来，他眯起眼睛，咧嘴一笑，露出几颗黄牙——是演员，但演得太像了。你甚至分不清他是角色还是真人。
+
+约特干到处都是这种人。他们不叫NPC，叫"古城居民"。你买一瓶水，卖水的大爷可能下一分钟就去演戏了。这里没有游客和演员的界限，只有入戏和出戏。
+
+<img src="images/posts/2026-08-15-yotkan-8.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+广场一角，立着一尊铜像。
+
+玄奘。他手持锡杖，脚边是经卷，目光望向西边——那是他走过来的方向，也是他要回去的方向。约特干是于阗故城，而于阗，正是玄奘西行取经途中停留过的地方。
+
+铜像不说话，但你知道它在想什么。它想的不是"我到了"，而是"我还要走"。
+
+<img src="images/posts/2026-08-15-yotkan-9.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+然后，班超出现了。
+
+不是铜像，是真人。演员披着红袍，站在巨门之前，身后是漫天飞舞的粉色雪花——不，是彩纸，但被灯光染成了雪的颜色。他手持长剑，目光如炬，像是从两千年前的史书里直接走出来的。
+
+班超。定远侯。投笔从戎，出使西域，以三十六人平五十国。他不是武将，他是文官出身的将军，是汉朝在西域最锋利的一根针。
+
+那一刻，广场安静了。然后掌声雷动。
+
+<img src="images/posts/2026-08-15-yotkan-10.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+天黑之后，古城换了面孔。
+
+佛塔亮了。不是普通的亮，是被红、蓝、紫三色灯光从底部往上打，像一座从地里长出来的光柱。塔前立着武士的投影，或剪影，盔甲分明，一动不动，像守夜的幽灵。周围全是人，举着手机，仰着头，嘴里发出"哇"的声音。
+
+白天看的是戏，晚上看的是梦。
+
+<img src="images/posts/2026-08-15-yotkan-11.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">
+
+最后一场，是花车。
+
+装饰绚烂的花车从广场中央缓缓驶过，车上站着西域装束的舞者，红裙金饰，灯笼高悬。光影在她们身上流动，像把整条丝绸之路的色彩都浓缩在了这一辆车里。
+
+我站在人群里，看着这一切，忽然想起一件事：约特干是假的。城墙是假的，花树是假的，表演是假的。但玄奘是真的，班超是真的，那条从长安延伸到罗马的路是真的。
+
+假的是布景，真的是记忆。
+
+晚上十一点半，人群散尽。我走出古城大门，回头看了一眼。佛塔还在亮，但已经没有人看了。灯光打在地面上，拉出长长的影子，像一场刚刚散场的梦。
+
+约特干不会记住我。但我记住了它。`,
+        image: "images/posts/2026-08-15-yotkan-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-15",
+        pinned: false
+    }
 
 
 
