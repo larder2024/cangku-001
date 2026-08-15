@@ -902,7 +902,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-15",
         pinned: false
+    },
+    {
+        id: 44,
+        title: "西行·沙漠公路·穿沙北去",
+        desc: `离开和田，我决定走G580沙漠公路北上。导航显示全程四百多公里，预计五个半小时。对塔克拉玛干而言，这只是擦着它的西缘划过一道浅痕，但足够让你领教这片沙漠的脾气。\n\n<b>第一关：油。</b>\n\n<img src="images/posts/2026-08-15-desert-sign.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n开出没多远，油量告急。路边出现一座孤零零的加油站，招牌不大，设施简陋，在荒漠中像个过路歇脚的驿站。我没多想，加满继续走。\n\n结果发动机故障灯亮了。不是闪一下，是实打实地亮着，伴随那种让人心里发紧的低频报警声。在这四百多公里无人区，发动机就是命。我不敢停，也不敢快，只能维持着八十多的时速，盯着仪表盘，脑子里飞快过着各种应急预案——最近的修理厂在哪？拖车能进沙漠公路吗？如果抛锚，手机信号有没有？\n\n那几个小时，空调吹出的冷风都是紧张的。\n\n后来灯自己熄了。我猜是那桶油杂质多，ECU报警，烧一阵排干净就好了。但那种"在沙漠里可能趴窝"的恐惧，是导航给不了的。\n\n<b>穿过腹地</b>\n\n<img src="images/posts/2026-08-15-desert-nav.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n手机导航截图后来被我留着。G580，车速85，两侧是无尽的沙丘。屏幕上那条笔直的蓝线，像一个人类在沙海里硬画出的骄傲。\n\n<img src="images/posts/2026-08-15-desert-car.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n我把车停在一处土坡上，下来透气。四周安静得能听见自己的心跳。没有鸟叫，没有风声，只有远处沙丘的轮廓在热空气里微微晃动。站在这里，你会突然理解为什么古人把这片地方叫"死亡之海"——它不主动攻击你，它只是不在乎你。\n\n<img src="images/posts/2026-08-15-desert-road.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n公路本身倒是出人意料地好。双向平整的沥青路面，笔直向前，看不到尽头。偶尔有对向来的大车，错车时扬起一阵沙雾，然后世界又归于寂静。路两侧种着低矮的沙拐枣和梭梭，是防沙工程的痕迹——人类在用最谦卑的方式告诉沙漠：让我过去，我不打扰你。\n\n<img src="images/posts/2026-08-15-desert-dunes.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n再往里走，沙丘越来越高，风纹越来越密。那些波纹不是静止的，它们在以肉眼不可见的速度缓慢移动——今天还是公路，几十年后可能就是沙堆。塔克拉玛干在呼吸，在翻身，在缓慢地、不可阻挡地收回一切人类以为属于自己的土地。\n\n<img src="images/posts/2026-08-15-desert-station.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n路过另一座加油站时，我犹豫了。发动机灯虽然灭了，但我不敢再试。这家站看起来正规一些，至少招牌完整，有便利店。我下车买了水和泡面，跟老板聊了聊。他说这条路上抛锚的车每年都有，"多数是油的问题，少数是轮胎。你们城里人开车猛，不知道沙漠里的沙是活的。"\n\n<img src="images/posts/2026-08-15-desert-radar.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n途中还看到一座巨大的白色球形建筑，像科幻片里掉在地球上的外星装置。后来查资料才知道是气象雷达站，监测沙尘暴和风的。它孤零零地站在沙丘之间，旁边的高压输电塔像它的守卫。人类用科技把自己锚定在这片流动的大地上，这个想法本身就很动人，也很悲壮。\n\n<b>最后一关：沙。</b>\n\n快到公路出口时，我放松了下来。仪表盘安静，油量充足，目的地只剩不到一百公里。\n\n路边有个临时停车带，我想拍张照。打方向，减速，右轮刚离开柏油路面，就陷下去了。\n\n沙。不是硬路肩，是松软的、会流动的沙。油门一踩，后轮空转，沙子被刨得飞溅，车却越陷越深。我立刻松油门——越挣扎越下沉，这是沙漠的基本礼貌。\n\n倒挡。慢慢给油。能感觉到四个轮子都在打滑，车身轻微扭动，像在跟沙子谈判。退一点，再退一点，轮子终于抓住了柏油路面的边缘，一把倒回了公路上。\n\n我坐在驾驶座上，喘了口气，手心全是汗。如果不是及时发现、及时倒车，而是继续往前冲，现在可能就是叫拖车的局面了。而在这片沙漠里，拖车可能要从一百公里外赶来。\n\n<b>尾声</b>\n\n当我终于看到"阿克苏"方向的路牌时，天色已经暗下来。四百多公里，五个多小时，两起险情。\n\n塔克拉玛干没有故意为难我。它只是按自己的规则运行：油不行，机器就报警；车进沙地，轮子就打滑。它不针对谁，它只是<b>不在乎</b>。\n\n而人类偏偏喜欢在这种"不在乎"的地方修路、建站、开车穿越。这大概是我们这个物种最固执的可爱之处——明知大海不会为你让路，还是要造船。\n\n如果你也打算走这条沙漠公路，记住三件事：<b>加好油、别下路、敬畏沙漠。</b>\n\n它不会杀你，它只是不会救你。`,
+        image: "images/posts/2026-08-15-desert-sign.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-15",
+        pinned: false
     }
+
 
 
 
