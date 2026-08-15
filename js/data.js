@@ -892,7 +892,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-08-15",
         pinned: false
+    },
+    {
+        id: 43,
+        title: "西行·和田博物馆·绿洲深处的历史回响",
+        desc: `上午十一点，和田市区气温已经攀升到足以让人汗流浃背的程度。我走进和田博物馆，与其说是为了避暑，不如说是为了赴一场穿越两千年的约。\n\n<img src="images/posts/2026-08-15-hetian-museum.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n博物馆外观并不张扬，浅色调的建筑立面在南疆强烈的日照下显得沉稳而安静。但踏入展厅的那一刻，你就知道这里藏着西域最厚重的秘密。\n\n<img src="images/posts/2026-08-15-hetian-brocade.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n第一件震撼我的，是被誉为"20世纪中国考古学最伟大发现之一"的<b>"五星出东方利中国"锦护膊</b>复原展示。原件出土于和田地区民丰县尼雅遗址，属于汉代精绝国遗物。蓝底织锦上，云气纹间赫然织出"五星出东方利中国"八个汉隶大字——这是两千年前西域绿洲城邦对中原王朝的政治认同，也是丝绸之路上最动人的文化信物之一。\n\n<img src="images/posts/2026-08-15-hetian-boots.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n继续深入，展柜中一双造型奇特的<b>古代皮靴</b>引人注目，高筒、尖头，带有明显的游牧民族特征。靴子上方墙上的线描图展示了"嵌人面像木杖"的复原形态，人面表情神秘而庄严。\n\n<img src="images/posts/2026-08-15-hetian-mummy.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n塔里木盆地特有的干燥气候，馈赠给后世一具保存完好的<b>干尸</b>——没有刻意防腐，自然脱水让逝者的面容、毛发、甚至衣物纤维都得以保存千年。\n\n<img src="images/posts/2026-08-15-hetian-buddha.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n另一件让我驻足的，是一尊<b>唐代青铜坐佛像</b>。佛像面容沉静，衣纹流畅，展签注明其风格源自克什米尔。公元七世纪，佛教沿丝绸之路传入和田，这里曾是西域佛教重镇，法显、玄奘西行都曾在此驻足。\n\n<img src="images/posts/2026-08-15-hetian-map-blanket.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n展厅中还有一件颇具时代感的展品——<b>1949年"中国现势新地图"毛毯</b>。红蓝双色标注，中文与维吾尔文双语对照。从汉代的精绝到1949年的新疆，两千年的跨度被压缩在同一座建筑的几个展厅里。\n\n<img src="images/posts/2026-08-15-hetian-street.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n走出博物馆时，和田的烈日依旧灼人。但在那几个小时里，我仿佛走完了从精绝古国到现代和田的整部历史。和田博物馆或许不是国内最豪华的博物馆，但它在丝路上的位置，决定了这里的每一件展品都带着一种独特的分量——那是绿洲文明在沙漠边缘顽强生存、并与远方世界持续对话的证据。\n\n如果你也来和田，不要错过这里。空调很凉，历史很热。`,
+        image: "images/posts/2026-08-15-hetian-museum.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-08-15",
+        pinned: false
     }
+
 
 
 
