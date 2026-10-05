@@ -990,7 +990,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-10-03",
         pinned: false
+    },
+    {
+        id: 53,
+        title: "山肚里的下午",
+        desc: `还没见到洞，先闻到了它。湿凉的、矿石的气息从树叶缝里渗出来，像山呼吸时漏出的底味。同行的朋友说，百魔洞到了。\n\n<img src="images/posts/2026-10-05-baimodong-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n抬头的一刻，语言是多余的。巨山从中间空了一块，黑得纯粹，像一只睁着的眼睛，又像一张懒得合拢的嘴——它在此地看了千万年的人，人看它的时候，人是它的风景。\n\n走进洞口，阳光“唰”地被没收了。凉气顺着裤腿爬上来，皮肤先于眼睛明白：这里的时间是另一种物质。钟乳石从头顶垂下，被灯光点成金的、绿的、紫的，像谁把彩虹掰碎了挂在黑暗里。洞底卧着一潭水，绿得发亮，把整片灯影收了进去——石头不止长在头顶，也长进了水里。一条白色栈道从水上弯过去，人走在上面，小得像一队搬家的蚂蚁。\n\n<img src="images/posts/2026-10-05-baimodong-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n洞的深处横陈着另一幅奇观：大石坡上，男男女女躺着，盖着外套，睡得安稳。他们管这个叫“磁疗”。在山肚子里，连睡觉的人都像一群换了地方的猫——只不过晒的不是太阳，是石头。他们把手表留在洞外，把身体交给石头，把下午交给黑暗。信与不信之外，这是一种奢侈：在人世的外面，买一个下午的被遗忘。\n\n<img src="images/posts/2026-10-05-baimodong-4.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n再往里，洞厅豁然张开。一大片石笋被蓝光照亮，像夜里长出来的城堡。抬头找洞顶，找不到，只有黑，深得像天空忘了带星星。水从看不见的高处落下来，“滴答、滴答”，数着数着就乱了——在山肚子里，钟表是外来的仪器，水滴才是本地的时辰。\n\n<img src="images/posts/2026-10-05-baimodong-3.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n最黑的一段路，扶着栏杆走。鸟声没有了，天没有了，只有水在石头缝里走，“咚咚”的，沉而稳，像大山的心跳。人走到这里会变小，小到只剩一具心跳，和另一具心跳隔着岩壁相认。\n\n然后，“轰”的一下，光扑了回来。出洞时，太阳已经偏西，影子被拉得老长，斜斜地躺在草地上。眯着眼回望，那只“眼睛”更深了——它目送我们，好像从我们进门时起，就预演过这一场告别。\n\n头发上有洞里的潮气，衣袖上留着石头味。晚上的水流哗啦啦冲过，那股湿凉还是赖着不走。\n\n一个下午，在山的肚子里。人间的钟走了几个小时，山里的水滴走了几千年。我们夹在中间，被两种时间同时经过，又同时放行。`,
+        image: "images/posts/2026-10-05-baimodong-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-10-05",
+        pinned: false
     }
+
 
 
 
