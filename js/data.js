@@ -1020,7 +1020,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-10-06",
         pinned: false
+    },
+    {
+        id: 56,
+        title: "最后的景点",
+        desc: `中午在七洞服务区囫囵了个早饭，导航改了阳朔。下午，人就在兴坪了。\n\n到兴坪先看见牌坊。興坪古鎮四个字挂在檐下，两边贴着对联，挂着红灯笼，游客从底下一拨一拨过。\n\n<img src="images/posts/2026-10-06-xingping-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n穿过牌坊就是老街。骑楼两边开着铺子，卖啤酒鱼的、开民宿的、租苗服照相的，招牌一个挨一个。走着走着街到了尽头——一座山从屋檐后面直接站起来，尖的，绿的，不跟谁商量。兴坪这个地方，古镇是给人看的，山是给自己长的。\n\n<img src="images/posts/2026-10-06-xingping-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n老街走到头，就是漓江。\n\n<img src="images/posts/2026-10-06-xingping-3.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n上了竹筏。筏子慢慢离岸，马达声不大，水在筏子底下流。两岸的峰从水边立起来，一座一座往后退，岸上的竹林退成一条绿线。坐在筏上才明白人在画中游这句话的毛病——画不会动，江会动。人在画里的时候，画是活的。\n\n<img src="images/posts/2026-10-06-xingping-4.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n筏子行到江心，前面的江面上立着一座大山。\n\n锥形的，从水里直接拔上去，拔到云底。崖壁上一道一道水痕，灰白的，像几条瀑布冻在了半路。大游船从峰根底下过，竹筏也从峰根底下过，马达声和橹声混在一起。这座山在这里立了多少年，江就绕了它多少年。\n\n<img src="images/posts/2026-10-06-xingping-5.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n这是最后的景点了。\n\n出门时想着慢慢走，巴马住着，火麻汤喝着，把日子过成养生。临到走了不甘心，数了数没去的地方，又赶了几百里路，赶到兴坪，赶上这条江。上岸的时候天快黑了。\n\n到底哪个玩法对，说不清。慢有慢的打发，赶有赶的收成——今天要是不赶这一趟，漓江这一页就翻过去了。\n\n晚风里回头看了一眼。牌坊还亮着灯，山沉进暮色里。心里的账，到此还清。`,
+        image: "images/posts/2026-10-06-xingping-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-10-06",
+        pinned: false
     }
+
 
 
 
