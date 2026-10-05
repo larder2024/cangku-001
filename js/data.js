@@ -1000,7 +1000,18 @@ const contentData = [
         categoryName: "见闻",
         date: "2026-10-05",
         pinned: false
+    },
+    {
+        id: 54,
+        title: "百鸟岩：从白天渡到黑夜",
+        desc: `到洞口的时候，天正在暗下来。\n\n喀斯特的崖壁从暮色里立起来，像一堵没有尽头的墙，墙根下开了一个口。洞口垂着石幔，一层叠一层，是山亿万年间慢慢长出来的帘子。船朝着那个口去，水是地下河的水，平，黑，船头划过去，几乎没有声音。\n\n<img src="images/posts/2026-10-06-bainiaoyan-1.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n进洞的一瞬间，光被合在了身后。\n\n眼睛适应黑暗需要一点时间。先是看不见，然后看得见了，反而后悔看见——洞顶的黑暗不是空的。灯光扫上去，那是一层蝙蝠，倒挂着，密密的，一动不动。千百只，没有一只在飞。它们白天把洞口让给游客，夜里才出去。此刻我们只是闯进了它们的卧室，屏住呼吸经过。\n\n<img src="images/posts/2026-10-06-bainiaoyan-2.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n船往深处走。忽然头顶裂开一道口子。\n\n天光从裂口里灌下来，跟着灌进来的还有树影，和一小片远山。洞里走得越深，越是黑得彻底，可就在最黑的地方，山自己开了一只眼睛。光柱斜插进洞里，落到水面，被水波揉碎——水波天窗这四个字，在岸上读是个名字，在洞里读才是来历。船从光柱底下过的时候，满船的人都抬头，没有人说话。\n\n<img src="images/posts/2026-10-06-bainiaoyan-3.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n再往深处，灯光停了。\n\n水面立着一块钟乳石，被灯光打亮：低头，弓身，长发从肩上垂下来，一直垂进水里。船家的声音很轻，说，这是阿妹洗头。水波一晃，石影和发梢一起晃，真的假的就分不清楚了。瑶家的阿妹在这里洗了多少年的头，谁也说不上来——钟乳石长得慢，一万年才长一寸。她这一低头，也许就是几万年的工夫。\n\n<img src="images/posts/2026-10-06-bainiaoyan-4.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n回程的时候，天已经全黑了。\n\n洞口消失了，山沉成剪影，只剩下轮廓。码头亮着灯，暖黄的一片，灯光落进水里，碎成一条金线，跟着船走。进去的时候天还亮着，出来的时候夜已经合拢——中间只隔了一层岩壁，岩壁两边，是两个天色。\n\n<img src="images/posts/2026-10-06-bainiaoyan-5.jpg" style="width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:8px;margin:16px 0;display:block;">\n\n一个多小时的航程，像是从白天渡到了黑夜。`,
+        image: "images/posts/2026-10-06-bainiaoyan-1.jpg",
+        category: "jianwen",
+        categoryName: "见闻",
+        date: "2026-10-06",
+        pinned: false
     }
+
 
 
 
